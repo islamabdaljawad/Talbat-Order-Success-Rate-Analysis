@@ -1,7 +1,7 @@
 # Talbat Order Success Rate Analysis
 
 This project focuses on analyzing and improving the success rate of orders placed on the Talbat platform. It explores various factors contributing to the success or failure of orders, such as payment methods, customer mistakes, fraud, geographic regions, and time-based patterns. Based on the findings, the project provides actionable recommendations to enhance order success rates, improve operational efficiency, and offer a better user experience.
-![Project Logo](assets/https://github.com/islamabdaljawad/Talbat-Order-Success-Rate-Analysis/blob/main/successful%20events%20by%20month%20and%20hour.png)
+![Project Logo](https://github.com/islamabdaljawad/Talbat-Order-Success-Rate-Analysis/blob/main/successful%20events%20by%20month%20and%20hour.png)
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Data Analysis](#data-analysis)
